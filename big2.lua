@@ -22,7 +22,7 @@ local getMultiplier = fold:WaitForChild("GetMultiplier")
 
 local waitTime = 5
 local gameSpeed = 1 -- GameSpeed = 1 + gameSpeed
-local gameMode = -1 -- 1 = Easy, 2 = Normal etc.
+local gameMode = 3 -- 1 = Easy, 2 = Normal etc.
 local autoSkipVal = true
 
 local rec = false
